@@ -8,6 +8,16 @@ Electricity and heat generation from biomass Version
 
 Sectoral scopes 01- Energy industries (Renewable/Non-Renewable
 Sources) 
+____________________
+PRIOR HISTORY
+
+The project was uploaded for CDM prior consideration however, the project did not go ahead. The
+PP i.e., CBKSSN has confirmed the same. Hence, as of now, the project is not under validation or is
+not registered with CDM.
+
+Link: https://cdm.unfccc.int/Projects/Validation/DB/2RJSNGPFQ026L7WMYQVWABQFJVA6HV/view.
+Html
+___________________
 
 The project titled “28.7 MW Bundled Bagasse Based Cogen Plant is in Village Nanadi, Tehsil
 Chikodi, District Belagavi, State Karnataka, Country INDIA.
