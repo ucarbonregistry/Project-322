@@ -78,3 +78,23 @@ _____________
 Verification for the 1st monitored period (MP): 01/01/2013 to 31/12/2022
 _____________________
 Total Quanity of issued CoUs for the 1st MP 4,48,840 CoUs
+
+2013: 56,661 CoUs (56,661 tCO2eq)
+
+2014: 38,058 CoUs (38,058 tCO2eq)
+
+2015: 60,139 CoUs (60,139 tCO2eq)
+
+2016: 49,558 CoUs (49,558 tCO2eq)
+
+2017: 25,821 CoUs (25,821 tCO2eq)
+
+2018: 40,148 CoUs (40,148 tCO2eq)
+
+2019: 36,018 CoUs (36,018 tCO2eq)
+
+2020: 35,931 CoUs (35,931 tCO2eq)
+
+2021: 51,008 CoUs (51,008 tCO2eq)
+
+2022: 55,498 CoUs (55,498 tCO2eq)
