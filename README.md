@@ -77,24 +77,85 @@ coal, oil and provides long-term benefits to the mitigation of climate change.
 _____________
 Verification for the 1st monitored period (MP): 01/01/2013 to 31/12/2022
 _____________________
-Total Quanity of issued CoUs for the 1st MP 4,48,840 CoUs
-
+Total Quanity of issued CoUs for the 1st MP 4,48,840 CoUs on 08/05/2024
+____________________
 2013: 56,661 CoUs (56,661 tCO2eq)
 
+Serial Number: 0001-000001-056661-UCR-CoU-IN-322-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 56661
+________________________________
 2014: 38,058 CoUs (38,058 tCO2eq)
 
+Serial Number: 0001-056662-094719-UCR-CoU-IN-322-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 38058
+_________________
 2015: 60,139 CoUs (60,139 tCO2eq)
 
+Serial Number: 0001-094720-154858-UCR-CoU-IN-322-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 60139
+________________
 2016: 49,558 CoUs (49,558 tCO2eq)
 
+Serial Number: 0001-154859-204416-UCR-CoU-IN-322-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 49558
+______________
 2017: 25,821 CoUs (25,821 tCO2eq)
 
+Serial Number: 0001-204417-230237-UCR-CoU-IN-322-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 25821
+________________
 2018: 40,148 CoUs (40,148 tCO2eq)
 
+Serial Number: 0001-230238-270385-UCR-CoU-IN-322-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 40148
+_________________
 2019: 36,018 CoUs (36,018 tCO2eq)
 
+Serial Number: 0001-270386-306403-UCR-CoU-IN-322-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 36018
+___________
 2020: 35,931 CoUs (35,931 tCO2eq)
 
+Serial Number: 0001-306404-342334-UCR-CoU-IN-322-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 35931
+________________
 2021: 51,008 CoUs (51,008 tCO2eq)
 
+Serial Number: 0001-342335-393342-UCR-CoU-IN-322-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 51008
+______________
 2022: 55,498 CoUs (55,498 tCO2eq)
+
+Serial Number: 0001-342336-448840-UCR-CoU-IN-322-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 55498
+___________________
